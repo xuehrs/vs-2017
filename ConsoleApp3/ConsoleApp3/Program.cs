@@ -62,7 +62,7 @@ namespace ConsoleApp3
             //    Console.WriteLine("Or the first number is not greater than the second");
             //}
 
-
+            //这个比较好看
             //int a = 5;
             //int b = 3;
             //int c = 4;
@@ -97,6 +97,8 @@ namespace ConsoleApp3
             //}
 
 
+
+            //以后要注意这种语句，它的循环语句有中断语句“；”，目前C#教程中只看到这个do-while有这个特征
             //int counter = 0;
             //do
             //{
