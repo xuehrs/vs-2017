@@ -106,20 +106,20 @@ namespace ConsoleApp2
             */
 
             
-            decimal r = 2.50M;
-            double R = 2.50;
-            double PI = Math.PI;
-            decimal pi = (decimal)PI;
-            Console.WriteLine(Math.PI);
-            decimal S = pi * r * r;
-            double SS = PI * R * R;
-            Console.WriteLine("高精度计算方式: "+S);
-            Console.WriteLine(SS);
+            //decimal r = 2.50M;
+            //double R = 2.50;
+            //double PI = Math.PI;
+            //decimal pi = (decimal)PI;
+            //Console.WriteLine(Math.PI);
+            //decimal S = pi * r * r;
+            //double SS = PI * R * R;
+            //Console.WriteLine("高精度计算方式: "+S);
+            //Console.WriteLine(SS);
 
 
-            double radius = 2.50;
-            double area = Math.PI * radius * radius;
-            Console.WriteLine(area);
+            //double radius = 2.50;
+            //double area = Math.PI * radius * radius;
+            //Console.WriteLine(area);
 
 
 
