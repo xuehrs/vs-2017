@@ -6,9 +6,11 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
 
 
+            var name = "<name>";
+            Console.WriteLine($"Hello, {name}. It's a pleasure to meet you!");
 
 
 
