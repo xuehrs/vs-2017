@@ -9,8 +9,12 @@ namespace ConsoleApp4
             //Console.WriteLine("Hello World!");
 
 
-            var name = "<name>";
-            Console.WriteLine($"Hello, {name}. It's a pleasure to meet you!");
+            //var name = "<name>";
+            //Console.WriteLine($"Hello, {name}. It's a pleasure to meet you!");
+            ////不能运行，报错：错误 CS1056  意外的字符“$”
+            ////Console.WriteLine($ "Hello, {name}. It's a pleasure to meet you!");
+
+
 
 
 
